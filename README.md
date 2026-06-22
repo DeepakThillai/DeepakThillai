@@ -303,7 +303,7 @@ status      : Always exploring, always shipping 🚀
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=DeepakThillai&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=DeepakThillai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
