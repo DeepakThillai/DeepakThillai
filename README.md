@@ -316,10 +316,8 @@ status      : Always exploring, always shipping 🚀
 
 <div align="center">
 
-[![3D Contrib](https://raw.githubusercontent.com/DeepakThillai/DeepakThillai/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/DeepakThillai)
+![3D Graph](https://raw.githubusercontent.com/DeepakThillai/DeepakThillai/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-> 💡 *Enable GitHub Actions in your profile repo to auto-generate this 3D contribution map!*  
-> *Use the workflow: [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib)*
 
 </div>
 
