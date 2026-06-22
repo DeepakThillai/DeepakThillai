@@ -234,7 +234,7 @@ status      : Always exploring, always shipping 🚀
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-[![Profile](https://img.shields.io/badge/View_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepakThillai)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepakThillai/Strato-Twin)
 
 </td>
 
