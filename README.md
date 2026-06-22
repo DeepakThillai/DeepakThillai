@@ -1,158 +1,354 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:8957e5,100:238636&height=200&section=header&text=Deepak%20T&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Systems%20Engineer%20%E2%80%94%20Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn" />
+<!-- ANIMATED 3D HERO BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1f6feb,60:58a6ff,100:1f6feb&height=280&section=header&text=Deepak%20T&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Builder&descSize=18&descColor=8b949e&descAlignY=65&animation=fadeIn&stroke=1f6feb&strokeWidth=2" alt="Hero Banner"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+systems+that+think+%F0%9F%A7%A0" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+systems+that+think+%F0%9F%A7%A0;Agentic+AI+%7C+Full+Stack+%7C+ML+Pipelines;From+Puducherry+%E2%86%92+Pushing+Boundaries+%F0%9F%9A%80;Curious+by+nature.+Engineer+by+craft." alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-thillai-6901a3305)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepakThillai)
-[![Location](https://img.shields.io/badge/Puducherry%2C_India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Profile Views](https://komarev.com/ghpvc/?username=DeepakThillai&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/DeepakThillai)
-
-<br/>
+<!-- SOCIAL BADGES — PREMIUM STYLE -->
+<p>
+  <a href="https://linkedin.com/in/deepak-thillai-6901a3305">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/DeepakThillai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:deepakthillaikannu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/DeepakThillai">
+    <img src="https://komarev.com/ghpvc/?username=DeepakThillai&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Views"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About
+<!-- ABOUT SECTION WITH NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
 
-I build systems that think. Based in **Puducherry**, I operate at the intersection of AI engineering and full-stack development — exploring agentic architectures, intelligent automation, and real-world problem solving.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;Who Am I
 
+```yaml
+name        : Deepak T
+location    : Puducherry, India 🇮🇳
+role        : AI Systems Engineer & Full Stack Developer
+education   : B.Tech CSE — Sri Manakula Vinayagar Engineering College
+focus       : Agentic AI · ML Pipelines · Intelligent Full-Stack Systems
+philosophy  : "Build systems that think, not just run."
+status      : Always exploring, always shipping 🚀
+```
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
 
 ---
 
-## Current Focus
+<!-- 3D SKILL CUBE / VISUAL GRID -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
 <div align="center">
 
-| Focus Area | Description |
-|---|---|
-| **AI Systems & Agentic Architectures** | Autonomous, multi-agent pipelines for real-world tasks |
-| **Full-Stack Development** | TypeScript + Python · React · Node · Express |
-| **High-Impact Projects** | Real-world applications solving tangible problems |
-| **Data-Driven Intelligent Systems** | ML pipelines, Generative AI, analytics infrastructure |
+<!-- LANGUAGES -->
+<table>
+<tr>
+<td valign="top" width="33%">
 
-</div>
-
----
-
-## Tech Stack
-
-### Languages
+### 🧠 Languages
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frameworks & Tools
+</div>
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ Frameworks & Tools
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### AI & Data
+</div>
+</td>
+<td valign="top" width="33%">
 
-![TensorFlow](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-## Featured Projects
-
+### 🤖 AI & Data
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DeepakThillai/Nexus-AI">Nexus-AI</a></h3>
-      <p>AI-based system for intelligent automation. Designed for agentic workflows and real-world task execution.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/DeepakThillai/Nexus-AI">
-        <img src="https://img.shields.io/badge/View_Project-%E2%86%97-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DeepakThillai/AI-powered-research-impact-and-collaboration-intelligence-system">AI Research Intelligence</a></h3>
-      <p>Analyze research impact and collaboration networks using AI-powered intelligence pipelines.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/DeepakThillai/AI-powered-research-impact-and-collaboration-intelligence-system">
-        <img src="https://img.shields.io/badge/View_Project-%E2%86%97-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DeepakThillai/DeepakThillai-Emergency-Responder">Emergency Responder</a></h3>
-      <p>Real-time emergency response coordination system — built for reliability under pressure.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <br/><br/>
-      <a href="https://github.com/DeepakThillai/DeepakThillai-Emergency-Responder">
-        <img src="https://img.shields.io/badge/View_Project-%E2%86%97-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DeepakThillai/Globetrotter-Deepak">Globetrotter</a></h3>
-      <p>AI-assisted intelligent travel application for seamless, personalized planning experiences.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <br/><br/>
-      <a href="https://github.com/DeepakThillai/Globetrotter-Deepak">
-        <img src="https://img.shields.io/badge/View_Project-%E2%86%97-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="33%">
+
+### 🗄️ Databases
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### ☁️ Cloud & DevOps
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### 🔬 Agentic AI
+<div align="center">
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logo=groq&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-58A6FF?style=for-the-badge&logo=databricks&logoColor=white)
+
+</div>
+</td>
+</tr>
 </table>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
+
 ---
 
-## GitHub Stats
+<!-- FEATURED PROJECTS — CARD GRID -->
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
+<table>
+<tr>
 
+<td width="50%" valign="top">
 
-<br/>
+### 🧠 [Nexus-AI](https://github.com/DeepakThillai/Nexus-AI)
+> Autonomous AI system built for agentic workflows and real-world task execution. Multi-agent pipelines, intelligent orchestration, full-stack integration.
 
-<img src="https://streak-stats.demolab.com?user=DeepakThillai&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=8957e5&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepakThillai/Nexus-AI)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔬 [AI Research Intelligence](https://github.com/DeepakThillai/AI-powered-research-impact-and-collaboration-intelligence-system)
+> Analyze research impact & collaboration networks using AI-powered intelligence pipelines. RAG + graph analytics + knowledge synthesis.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepakThillai/AI-powered-research-impact-and-collaboration-intelligence-system)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚨 [Emergency Responder](https://github.com/DeepakThillai/DeepakThillai-Emergency-Responder)
+> Real-time emergency response coordination system. Built for reliability under pressure — WebSocket-driven, event-sourced, fault-tolerant architecture.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepakThillai/DeepakThillai-Emergency-Responder)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌍 [Globetrotter](https://github.com/DeepakThillai/Globetrotter-Deepak)
+> AI-assisted intelligent travel application for seamless, personalized planning experiences. LLM-powered itinerary engine with real-time adaptations.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepakThillai/Globetrotter-Deepak)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 [Agentic Career Navigator](https://github.com/DeepakThillai/Agentic-career-navigation-systems)
+> Multi-agent career intelligence system. Autonomous pipelines for resume analysis, job matching, skill gap detection, and personalized roadmapping.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat-square&logo=groq&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepakThillai/Agentic-career-navigation-systems)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ [StratoTwin](https://github.com/DeepakThillai)
+> Enterprise-grade Digital Twin Platform with 6 infrastructure layers — LangGraph agent pipeline, FastAPI bridge, React dashboard, WebSocket real-time sync.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+[![Profile](https://img.shields.io/badge/View_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepakThillai)
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
+
 ---
 
-## Contribution Graph
+<!-- CURRENT FOCUS — ANIMATED RADAR STYLE -->
+## 🎯 &nbsp;Current Focus
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepakThillai&bg_color=0d1117&color=58A6FF&line=8957e5&point=3fb950&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/DeepakThillai)
+| Area | What I'm Building |
+|------|------------------|
+| 🤖 **Agentic Architectures** | Autonomous multi-agent pipelines with LangGraph & tool-calling LLMs |
+| 🧬 **ML Systems** | EV range prediction, predictive maintenance, temporal fusion transformers |
+| 🌐 **Full-Stack AI Apps** | React + FastAPI + RAG — end-to-end intelligent applications |
+| 📊 **Data Pipelines** | Real-time analytics, vector stores, embedding infrastructure |
+| 📝 **Research** | Systematic literature reviews, Springer-grade academic writing |
 
 </div>
 
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-thillai-6901a3305)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepakThillai)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakthillaikannu@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
 
 ---
+
+<!-- GITHUB STATS — 3-PANEL LAYOUT -->
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:8957e5,100:1f6feb&height=120&section=footer&text=Code.%20Build.%20Explore.%20Repeat.&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeepakThillai&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true" alt="Stats"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakThillai&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Langs"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=DeepakThillai&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=8957e5&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" alt="Streak"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+## 🌱 &nbsp;Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepakThillai&bg_color=0d1117&color=58A6FF&line=1f6feb&point=8957e5&area=true&area_color=1f6feb&hide_border=true&custom_title=Deepak%27s%20Contribution%20Graph)](https://github.com/DeepakThillai)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
+
+---
+
+<!-- TROPHIES -->
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=DeepakThillai&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
+
+---
+
+<!-- 3D ISOMETRIC CONTRIBUTION CALENDAR -->
+## 📅 &nbsp;3D Contribution Map
+
+<div align="center">
+
+[![3D Contrib](https://raw.githubusercontent.com/DeepakThillai/DeepakThillai/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/DeepakThillai)
+
+> 💡 *Enable GitHub Actions in your profile repo to auto-generate this 3D contribution map!*  
+> *Use the workflow: [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib)*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
+
+---
+
+<!-- CONNECT SECTION -->
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/deepak-thillai-6901a3305">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:deepakthillaikannu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/DeepakThillai">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+> *"Curiosity is the engine. Code is the fuel. Systems that think — that's the destination."*
+
+</div>
+
+<!-- ANIMATED FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:58a6ff,100:8957e5&height=120&section=footer&text=Code.%20Build.%20Explore.%20Repeat.&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="Footer"/>
