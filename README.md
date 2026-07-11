@@ -159,7 +159,8 @@ status      : Always exploring, always shipping 🚀
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://camo.githubusercontent.com/8e73d9ec05540b9f784af17aa742a4aa5f1ece73258a43a264568cd165b8a401/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47726f712d4646364233353f7374796c653d666c61742d737175617265266c6f676f3d67726f71266c6f676f436f6c6f723d7768697465)
+
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepakThillai/Nexus-AI)
 
